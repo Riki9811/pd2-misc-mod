@@ -1,7 +1,7 @@
 <div align="center">
 <img src="icon.png" alt="Icon" height="150">
 
-<h2 align="center">Misc Mod</h2>
+<h1 align="center">Misc Mod</h1>
 <p align="center">
     Miscellaneous mods functionalities, all in one.
 </p>
@@ -16,18 +16,15 @@ All features can be indipendently turned on/off in the mod's settings.
 
 </br>
 
----
-
-</br>
-
 ## Features
 
 1. <a href="#hide-mod-list">Hide mod list</a>
 2. <a href="#prevent-safe-house-raid">Prevent safe house raid</a>
-3. <a href="#drop-all-bags">Drop all bags</a> [carry stacker extension]
-4. <a href="#instant-interactions">Instant interactions</a> [CHEAT]
-5. <a href="#no-pagers">No pagers</a> [CHEAT]
-6. <a href="#god-mode">God-mode</a> [CHEAT]
+3. <a href="#no-corpses">No corpses</a>
+4. <a href="#drop-all-bags">Drop all bags</a> [carry stacker extension]
+5. <a href="#instant-interactions">Instant interactions</a> [CHEAT]
+6. <a href="#no-pagers">No pagers</a> [CHEAT]
+7. <a href="#god-mode">God-mode</a> [CHEAT]
 
 </br>
 
@@ -43,7 +40,14 @@ The feature enables you to **hide your mod list** to other players. This option 
 
 ### - Prevent safe house raid
 
-When active, the feature will **prevent the safe house raid** from triggering. No more 🚨 **WEE WOOS** 🚨
+When active, the feature will **prevent the safe house raid** from triggering.</br>
+No more 🚨 **WEE WOOS** 🚨
+
+</br>
+
+### - No corpses
+
+Makes enemy corpses disappear as soon as the enemy dies. (Only works in loud)
 
 </br>
 
