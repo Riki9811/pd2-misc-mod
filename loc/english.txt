@@ -9,8 +9,14 @@
 	"menu_misc_mods_select_hide_info_btn": "Hide selected mods info",
 	"menu_misc_mods_prevent_sh_raid": "Prevent Safe House Raid",
 	"menu_misc_mods_prevent_sh_raid_desc": "Stop the safe house raid from being triggered.",
+	"menu_misc_mods_no_corpses": "Disable Corpses",
+	"menu_misc_mods_no_corpses_desc": "Corpses instantly disappear on enemy kill.\n(requires map reload to apply properly)",
+	"drop_all_bags_keybind_name": "Drop all bags",
+	"drop_all_bags_keybind_desc": "Drop all the bags you are carrying.\n(Only works with Carry Stacker)",
 	"popup_select_hide_info_title": "Hide Selected Mods",
 	"popup_select_hide_info_message": "This options lets you choose which mods you want to hide.\n\nGo to 'PAYDAY 2/mods/Misc Mods' folder and open the file named mods_to_hide.txt with any text editor. For each line of the file write the name of the mod you want to hide, you can get the name of the mod from its respective mod.txt file.\n\nBe sure to copy the name EXACTLY, otherwise the mod won't be hidden.\nExample of a correct mods_to_hide file:\n\nMisc Mods\nVanillaHUDPlus\nThe Fixes"
 	"popup_mods_to_hide_list_title": "Currently hiding mods:",
 	"popup_mods_to_hide_list_message": "\n(edit 'mods_to_hide.txt' file to change which mods you don't want to show)",
+	"hint_no_carry_stacker_text": "Carry Stacker not installed",
+	"hint_no_carry_stacker_title": "Misc Mod:",
 }

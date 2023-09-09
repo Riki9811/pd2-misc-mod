@@ -14,7 +14,8 @@ MiscMods.settings = {
     select_hide_info_btn = function()
         MiscMods.PopUps:show_select_hide_info()
     end,
-    prevent_sh_raid = true
+    prevent_sh_raid = true,
+    no_corpses = true
 }
 MiscMods.settings_params = {
     hide_mod_list = {
@@ -32,6 +33,9 @@ MiscMods.settings_params = {
     },
     prevent_sh_raid = {
         priority = 3
+    },
+    no_corpses = {
+        priority = 2
     }
 }
 
