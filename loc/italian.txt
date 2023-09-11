@@ -1,0 +1,40 @@
+{
+	"menu_misc_mods": "Miscellaneous Mods",
+	"menu_misc_mods_desc": "Mod varie, messe insieme in una sola.",
+	
+    "menu_misc_mods_hide_mod_list": "Nascondi Lista Mod",
+	"menu_misc_mods_hide_mod_list_desc": "Scegli se e come nascondere la tua lista mod installate.",
+	"menu_misc_mods_hide_mods_off": "Off",
+	"menu_misc_mods_hide_all_mods": "Tutte le mod",
+	"menu_misc_mods_hide_select_mods": "Mod a scelta",
+	
+    "menu_misc_mods_select_hide_info_btn": "Info nascondi mod a scelta",
+	
+    "menu_misc_mods_prevent_sh_raid": "Blocca l'attacco al rifugio",
+	"menu_misc_mods_prevent_sh_raid_desc": "Impedisce che il rifugio venga attaccato dalla polizia.",
+	
+    "menu_misc_mods_no_corpses": "Disattiva cadaveri",
+	"menu_misc_mods_no_corpses_desc": "I cadaveri dei nemici scompaiono istantaneamente dopo l'uccisione.\n(ricarica la mappa per applicare correttamente)",
+	
+    "menu_misc_mods_cheats": "Trucchi",
+    "menu_misc_mods_cheats_desc": "Funzionalità che sono considerate cheat.\n(comunque non ti taggano come cheater)",
+
+    "menu_misc_mods_instant_interactions": "Interazioni istantanee",
+    "menu_misc_mods_instant_interactions_desc": "Tutte le interazioni diventano istantanee, tranne per il piazzare l'equipaggiamento.\n(il cercapersone può avere problemi di desync in multigiocatore)",
+
+    "menu_misc_mods_no_pagers": "Niente cercapersone",
+    "menu_misc_mods_no_pagers_desc": "Le uccisioni delle guardie non attiveranno il cercapersone.",
+
+    "menu_misc_mods_god_mode": "God Mode",
+    "menu_misc_mods_god_mode_desc": "C'è davvero bisogno di una spiegazione?",
+
+    "drop_all_bags_keybind_name": "Lancia tutte le borse",
+	"drop_all_bags_keybind_desc": "Lancia tutte le borse che stai trasportando.\n(Funziona solo insieme a Carry Stacker)",
+	
+    "popup_select_hide_info_title": "Nascondi mod a scelta",
+	"popup_select_hide_info_message": "Questa opzione consente di scegliere quale mod vuoi nascondere.\n\nVai alla cartella 'PAYDAY 2/mods/Misc Mods' e apri il file chiamato mods_to_hide.txt con qualsiasi editor di testo. Per ogni riga del file scrivi il nome della mod che vuoi nascondere, puoi ottenere il nome di una mod dal suo rispettivo file mod.txt\n\nAssicurati di copiare il nome ESATTO, altrimenti la mod non sarà nascosta.\nEsempio di un file mods_to_hide compilato correttamente:\n\nMisc Mods\nVanillaHUDPlus\nThe Fixes"
+	"popup_mods_to_hide_list_title": "Mod attualmente nascoste:",
+	"popup_mods_to_hide_list_message": "\n(modifica il file 'mods_to_hide.txt' per cambiare le mod che non vuoi mostrare)",
+	"hint_no_carry_stacker_text": "Carry Stacker non installato",
+	"hint_no_carry_stacker_title": "Misc Mod:",
+}
