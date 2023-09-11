@@ -32,9 +32,38 @@
 	"drop_all_bags_keybind_desc": "Drop all the bags you are carrying.\n(Only works with Carry Stacker)",
 	
     "popup_select_hide_info_title": "Hide Selected Mods",
-	"popup_select_hide_info_message": "This options lets you choose which mods you want to hide.\n\nGo to 'PAYDAY 2/mods/Misc Mods' folder and open the file named mods_to_hide.txt with any text editor. For each line of the file write the name of the mod you want to hide, you can get the name of the mod from its respective mod.txt file.\n\nBe sure to copy the name EXACTLY, otherwise the mod won't be hidden.\nExample of a correct mods_to_hide file:\n\nMisc Mods\nVanillaHUDPlus\nThe Fixes"
-	"popup_mods_to_hide_list_title": "Currently hiding mods:",
+	"popup_select_hide_info_message": "This options lets you choose which mods you want to hide.\n\nGo to 'PAYDAY 2/mods/Misc Mods' folder and open the file named mods_to_hide.txt with any text editor. For each line of the file write the name of the mod you want to hide, you can get the name of the mod from its respective mod.txt file.\n\nBe sure to copy the name EXACTLY, otherwise the mod won't be hidden.\nExample of a correct mods_to_hide file:\n\nMisc Mods\nVanillaHUDPlus\nThe Fixes",
+	
+    "popup_mods_to_hide_list_title": "Currently hiding mods:",
 	"popup_mods_to_hide_list_message": "\n(edit 'mods_to_hide.txt' file to change which mods you don't want to show)",
-	"hint_no_carry_stacker_text": "Carry Stacker not installed",
+	
+    "hint_no_carry_stacker_text": "Carry Stacker not installed",
 	"hint_no_carry_stacker_title": "Misc Mod:",
+
+    "keybind_for_numpad_1":          "Press 1",
+    "keybind_for_numpad_1_desc":     "Keybind to press 1 on in-game numpad",
+    "keybind_for_numpad_2":          "Press 2",
+    "keybind_for_numpad_2_desc":     "Keybind to press 2 on in-game numpad",
+    "keybind_for_numpad_3":          "Press 3",
+    "keybind_for_numpad_3_desc":     "Keybind to press 3 on in-game numpad",
+    "keybind_for_numpad_4":          "Press 4",
+    "keybind_for_numpad_4_desc":     "Keybind to press 4 on in-game numpad",
+    "keybind_for_numpad_5":          "Press 5",
+    "keybind_for_numpad_5_desc":     "Keybind to press 5 on in-game numpad",
+    "keybind_for_numpad_6":          "Press 6",
+    "keybind_for_numpad_6_desc":     "Keybind to press 6 on in-game numpad",
+    "keybind_for_numpad_7":          "Press 7",
+    "keybind_for_numpad_7_desc":     "Keybind to press 7 on in-game numpad",
+    "keybind_for_numpad_8":          "Press 8",
+    "keybind_for_numpad_8_desc":     "Keybind to press 8 on in-game numpad",
+    "keybind_for_numpad_9":          "Press 9",
+    "keybind_for_numpad_9_desc":     "Keybind to press 9 on in-game numpad",
+    "keybind_for_numpad_0":          "Press 0",
+    "keybind_for_numpad_0_desc":     "Keybind to press 0 on in-game numpad",
+    "keybind_for_numpad_#":          "Press #",
+    "keybind_for_numpad_#_desc":     "Keybind to press # on in-game numpad",
+    "keybind_for_numpad_clear":      "Clear numpad",
+    "keybind_for_numpad_clear_desc": "Keybind to clear in-game numpad",
+    "keybind_for_numpad_enter":      "Confirm numpad",
+    "keybind_for_numpad_enter_desc": "Keybind to confirm in-game numpad"
 }

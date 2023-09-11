@@ -21,6 +21,7 @@ All features can be indipendently turned on/off in the mod's settings.
 1. <a href="#hide-mod-list">Hide mod list</a>
 2. <a href="#prevent-safe-house-raid">Prevent safe house raid</a>
 3. <a href="#no-corpses">No corpses</a>
+3. <a href="#use-keyboard-for-numpad">Use keyboard for numpad</a>
 4. <a href="#drop-all-bags">Drop all bags</a> [carry stacker extension]
 5. <a href="#instant-interactions">Instant interactions</a> [CHEAT]
 6. <a href="#no-pagers">No pagers</a> [CHEAT]
@@ -48,6 +49,12 @@ No more 🚨 **WEE WOOS** 🚨
 ### - No corpses
 
 Makes enemy corpses disappear as soon as the enemy dies. (Only works in loud)
+
+</br>
+
+### - Use keyboard for numpad
+
+Uses keybinds to allow you to press the in-game numpad buttons with your keyboard.
 
 </br>
 

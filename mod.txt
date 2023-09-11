@@ -51,6 +51,10 @@
 		{
 			"hook_id": "lib/units/enemies/cop/logics/coplogicintimidated",
 			"script_path": "lua/NoPagers.lua"
+		},
+		{
+			"hook_id": "lib/managers/enemymanager",
+			"script_path": "lua/KeyboardForNumpad.lua"
 		}
 	],
 	"keybinds": [
@@ -59,6 +63,123 @@
 			"name": "drop_all_bags_keybind_name",
 			"description": "drop_all_bags_keybind_desc",
 			"script_path": "lua/DropAllBags.lua",
+			"run_in_menu": false,
+			"run_in_game": true,
+			"localized": true
+		},
+		{
+			"keybind_id": "mm_keypad_cas_button_01_keybind",
+			"name": "keybind_for_numpad_1",
+			"description": "keybind_for_numpad_1_desc",
+			"script_path": "lua/btns/cas_button_01.lua",
+			"run_in_menu": false,
+			"run_in_game": true,
+			"localized": true
+		},
+		{
+			"keybind_id": "mm_keypad_cas_button_02_keybind",
+			"name": "keybind_for_numpad_2",
+			"description": "keybind_for_numpad_2_desc",
+			"script_path": "lua/btns/cas_button_02.lua",
+			"run_in_menu": false,
+			"run_in_game": true,
+			"localized": true
+		},
+		{
+			"keybind_id": "mm_keypad_cas_button_03_keybind",
+			"name": "keybind_for_numpad_3",
+			"description": "keybind_for_numpad_3_desc",
+			"script_path": "lua/btns/cas_button_03.lua",
+			"run_in_menu": false,
+			"run_in_game": true,
+			"localized": true
+		},
+		{
+			"keybind_id": "mm_keypad_cas_button_04_keybind",
+			"name": "keybind_for_numpad_4",
+			"description": "keybind_for_numpad_4_desc",
+			"script_path": "lua/btns/cas_button_04.lua",
+			"run_in_menu": false,
+			"run_in_game": true,
+			"localized": true
+		},
+		{
+			"keybind_id": "mm_keypad_cas_button_05_keybind",
+			"name": "keybind_for_numpad_5",
+			"description": "keybind_for_numpad_5_desc",
+			"script_path": "lua/btns/cas_button_05.lua",
+			"run_in_menu": false,
+			"run_in_game": true,
+			"localized": true
+		},
+		{
+			"keybind_id": "mm_keypad_cas_button_06_keybind",
+			"name": "keybind_for_numpad_6",
+			"description": "keybind_for_numpad_6_desc",
+			"script_path": "lua/btns/cas_button_06.lua",
+			"run_in_menu": false,
+			"run_in_game": true,
+			"localized": true
+		},
+		{
+			"keybind_id": "mm_keypad_cas_button_07_keybind",
+			"name": "keybind_for_numpad_7",
+			"description": "keybind_for_numpad_7_desc",
+			"script_path": "lua/btns/cas_button_07.lua",
+			"run_in_menu": false,
+			"run_in_game": true,
+			"localized": true
+		},
+		{
+			"keybind_id": "mm_keypad_cas_button_08_keybind",
+			"name": "keybind_for_numpad_8",
+			"description": "keybind_for_numpad_8_desc",
+			"script_path": "lua/btns/cas_button_08.lua",
+			"run_in_menu": false,
+			"run_in_game": true,
+			"localized": true
+		},
+		{
+			"keybind_id": "mm_keypad_cas_button_09_keybind",
+			"name": "keybind_for_numpad_9",
+			"description": "keybind_for_numpad_9_desc",
+			"script_path": "lua/btns/cas_button_09.lua",
+			"run_in_menu": false,
+			"run_in_game": true,
+			"localized": true
+		},
+		{
+			"keybind_id": "mm_keypad_cas_button_00_keybind",
+			"name": "keybind_for_numpad_0",
+			"description": "keybind_for_numpad_0_desc",
+			"script_path": "lua/btns/cas_button_00.lua",
+			"run_in_menu": false,
+			"run_in_game": true,
+			"localized": true
+		},
+		{
+			"keybind_id": "mm_keypad_cas_button_clear_keybind",
+			"name": "keybind_for_numpad_clear",
+			"description": "keybind_for_numpad_clear_desc",
+			"script_path": "lua/btns/cas_button_clear.lua",
+			"run_in_menu": false,
+			"run_in_game": true,
+			"localized": true
+		},
+		{
+			"keybind_id": "mm_keypad_cas_button_enter_keybind",
+			"name": "keybind_for_numpad_enter",
+			"description": "keybind_for_numpad_enter_desc",
+			"script_path": "lua/btns/cas_button_enter.lua",
+			"run_in_menu": false,
+			"run_in_game": true,
+			"localized": true
+		},
+		{
+			"keybind_id": "mm_keypad_sand_button_number_sign_keybind",
+			"name": "keybind_for_numpad_#",
+			"description": "keybind_for_numpad_#_desc",
+			"script_path": "lua/btns/sand_button_number_sign.lua",
 			"run_in_menu": false,
 			"run_in_game": true,
 			"localized": true

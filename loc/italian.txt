@@ -32,9 +32,38 @@
 	"drop_all_bags_keybind_desc": "Lancia tutte le borse che stai trasportando.\n(Funziona solo insieme a Carry Stacker)",
 	
     "popup_select_hide_info_title": "Nascondi mod a scelta",
-	"popup_select_hide_info_message": "Questa opzione consente di scegliere quale mod vuoi nascondere.\n\nVai alla cartella 'PAYDAY 2/mods/Misc Mods' e apri il file chiamato mods_to_hide.txt con qualsiasi editor di testo. Per ogni riga del file scrivi il nome della mod che vuoi nascondere, puoi ottenere il nome di una mod dal suo rispettivo file mod.txt\n\nAssicurati di copiare il nome ESATTO, altrimenti la mod non sarà nascosta.\nEsempio di un file mods_to_hide compilato correttamente:\n\nMisc Mods\nVanillaHUDPlus\nThe Fixes"
-	"popup_mods_to_hide_list_title": "Mod attualmente nascoste:",
+	"popup_select_hide_info_message": "Questa opzione consente di scegliere quale mod vuoi nascondere.\n\nVai alla cartella 'PAYDAY 2/mods/Misc Mods' e apri il file chiamato mods_to_hide.txt con qualsiasi editor di testo. Per ogni riga del file scrivi il nome della mod che vuoi nascondere, puoi ottenere il nome di una mod dal suo rispettivo file mod.txt\n\nAssicurati di copiare il nome ESATTO, altrimenti la mod non sarà nascosta.\nEsempio di un file mods_to_hide compilato correttamente:\n\nMisc Mods\nVanillaHUDPlus\nThe Fixes",
+	
+    "popup_mods_to_hide_list_title": "Mod attualmente nascoste:",
 	"popup_mods_to_hide_list_message": "\n(modifica il file 'mods_to_hide.txt' per cambiare le mod che non vuoi mostrare)",
-	"hint_no_carry_stacker_text": "Carry Stacker non installato",
+	
+    "hint_no_carry_stacker_text": "Carry Stacker non installato",
 	"hint_no_carry_stacker_title": "Misc Mod:",
+
+    "keybind_for_numpad_1":          "Premi 1",
+    "keybind_for_numpad_1_desc":     "Scorciatoia per premere 1 sul tastierino numerico in gioco",
+    "keybind_for_numpad_2":          "Premi 2",
+    "keybind_for_numpad_2_desc":     "Scorciatoia per premere 2 sul tastierino numerico in gioco",
+    "keybind_for_numpad_3":          "Premi 3",
+    "keybind_for_numpad_3_desc":     "Scorciatoia per premere 3 sul tastierino numerico in gioco",
+    "keybind_for_numpad_4":          "Premi 4",
+    "keybind_for_numpad_4_desc":     "Scorciatoia per premere 4 sul tastierino numerico in gioco",
+    "keybind_for_numpad_5":          "Premi 5",
+    "keybind_for_numpad_5_desc":     "Scorciatoia per premere 5 sul tastierino numerico in gioco",
+    "keybind_for_numpad_6":          "Premi 6",
+    "keybind_for_numpad_6_desc":     "Scorciatoia per premere 6 sul tastierino numerico in gioco",
+    "keybind_for_numpad_7":          "Premi 7",
+    "keybind_for_numpad_7_desc":     "Scorciatoia per premere 7 sul tastierino numerico in gioco",
+    "keybind_for_numpad_8":          "Premi 8",
+    "keybind_for_numpad_8_desc":     "Scorciatoia per premere 8 sul tastierino numerico in gioco",
+    "keybind_for_numpad_9":          "Premi 9",
+    "keybind_for_numpad_9_desc":     "Scorciatoia per premere 9 sul tastierino numerico in gioco",
+    "keybind_for_numpad_0":          "Premi 0",
+    "keybind_for_numpad_0_desc":     "Scorciatoia per premere 0 sul tastierino numerico in gioco",
+    "keybind_for_numpad_#":          "Premi #",
+    "keybind_for_numpad_#_desc":     "Scorciatoia per premere # sul tastierino numerico in gioco",
+    "keybind_for_numpad_clear":      "Cancella tastierino numarico",
+    "keybind_for_numpad_clear_desc": "Scorciatoia per cancellare il tastierino numarico",
+    "keybind_for_numpad_enter":      "Conferma tastierino numarico",
+    "keybind_for_numpad_enter_desc": "Scorciatoia per confermare il tastierino numarico"
 }
