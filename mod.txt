@@ -37,11 +37,23 @@
 			"script_path": "lua/NoHeadGadgets.lua"
 		},
 		{
-			"hook_id": "lib/units/enemies/cop/copinventory",
-			"script_path": "lua/NoShields.lua"
+			"hook_id": "lib/units/interactions/interactionext",
+			"script_path": "lua/InstantInteractions.lua"
+		},
+		{
+			"hook_id": "lib/units/beings/player/playerdamage",
+			"script_path": "lua/GodMode.lua"
+		},
+		{
+			"hook_id": "lib/units/enemies/cop/copbrain",
+			"script_path": "lua/NoPagers.lua"
+		},
+		{
+			"hook_id": "lib/units/enemies/cop/logics/coplogicintimidated",
+			"script_path": "lua/NoPagers.lua"
 		}
 	],
-    "keybinds": [
+	"keybinds": [
 		{
 			"keybind_id": "mm_drop_all_bags_keybind",
 			"name": "drop_all_bags_keybind_name",
@@ -51,5 +63,5 @@
 			"run_in_game": true,
 			"localized": true
 		}
-    ]
+	]
 }

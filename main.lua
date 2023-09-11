@@ -15,7 +15,12 @@ MiscMods.settings = {
         MiscMods.PopUps:show_select_hide_info()
     end,
     prevent_sh_raid = true,
-    no_corpses = true
+    no_corpses = true,
+    cheats = {
+        instant_interactions = false,
+        no_pagers = false,
+        god_mode = false
+    }
 }
 MiscMods.settings_params = {
     hide_mod_list = {
@@ -36,6 +41,10 @@ MiscMods.settings_params = {
     },
     no_corpses = {
         priority = 2
+    },
+    cheats = {
+        priority = 1,
+        divider = -16
     }
 }
 

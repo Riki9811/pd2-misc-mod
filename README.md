@@ -60,7 +60,7 @@ _[Feature works only when CarryStacker is installed]_
 
 ### - Instant interactions
 
-This **cheat** will make all interactions instant (except for equipment deploy and pager response).
+This **cheat** will make all interactions instant (except for equipment deploy).
 
 </br>
 

@@ -1,19 +1,37 @@
 {
 	"menu_misc_mods": "Miscellaneous Mods",
 	"menu_misc_mods_desc": "Some miscellaneous mods put together in one.",
-	"menu_misc_mods_hide_mod_list": "Hide Mod List",
+	
+    "menu_misc_mods_hide_mod_list": "Hide Mod List",
 	"menu_misc_mods_hide_mod_list_desc": "Chose if/how you want to hide your mod list.",
 	"menu_misc_mods_hide_mods_off": "Off",
 	"menu_misc_mods_hide_all_mods": "All Mods",
 	"menu_misc_mods_hide_select_mods": "Selected Mods",
-	"menu_misc_mods_select_hide_info_btn": "Hide selected mods info",
-	"menu_misc_mods_prevent_sh_raid": "Prevent Safe House Raid",
+	
+    "menu_misc_mods_select_hide_info_btn": "Hide selected mods info",
+	
+    "menu_misc_mods_prevent_sh_raid": "Prevent Safe House Raid",
 	"menu_misc_mods_prevent_sh_raid_desc": "Stop the safe house raid from being triggered.",
-	"menu_misc_mods_no_corpses": "Disable Corpses",
+	
+    "menu_misc_mods_no_corpses": "Disable Corpses",
 	"menu_misc_mods_no_corpses_desc": "Corpses instantly disappear on enemy kill.\n(requires map reload to apply properly)",
-	"drop_all_bags_keybind_name": "Drop all bags",
+	
+    "menu_misc_mods_cheats": "Cheats",
+    "menu_misc_mods_cheats_desc": "Features that are generally considered as cheats.\n(still won't tag you as cheater)",
+
+    "menu_misc_mods_instant_interactions": "Instant interactions",
+    "menu_misc_mods_instant_interactions_desc": "All interactions become instanteneous, except for equipment deploy.\n(watch out for pager desync in multiplayer)",
+
+    "menu_misc_mods_no_pagers": "No pagers",
+    "menu_misc_mods_no_pagers_desc": "Guard kills won't trigger a pager call.",
+
+    "menu_misc_mods_god_mode": "God Mode",
+    "menu_misc_mods_god_mode_desc": "Does this really need explaning?",
+
+    "drop_all_bags_keybind_name": "Drop all bags",
 	"drop_all_bags_keybind_desc": "Drop all the bags you are carrying.\n(Only works with Carry Stacker)",
-	"popup_select_hide_info_title": "Hide Selected Mods",
+	
+    "popup_select_hide_info_title": "Hide Selected Mods",
 	"popup_select_hide_info_message": "This options lets you choose which mods you want to hide.\n\nGo to 'PAYDAY 2/mods/Misc Mods' folder and open the file named mods_to_hide.txt with any text editor. For each line of the file write the name of the mod you want to hide, you can get the name of the mod from its respective mod.txt file.\n\nBe sure to copy the name EXACTLY, otherwise the mod won't be hidden.\nExample of a correct mods_to_hide file:\n\nMisc Mods\nVanillaHUDPlus\nThe Fixes"
 	"popup_mods_to_hide_list_title": "Currently hiding mods:",
 	"popup_mods_to_hide_list_message": "\n(edit 'mods_to_hide.txt' file to change which mods you don't want to show)",
