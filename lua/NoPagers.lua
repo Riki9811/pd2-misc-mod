@@ -17,13 +17,13 @@ end
 if RequiredScript == "lib/units/enemies/cop/logics/coplogicintimidated" then
     local og_chk_begin_alarm_pager = CopLogicIntimidated._chk_begin_alarm_pager
 
-    function CopLogicIntimidated._chk_begin_alarm_pager(...)
+    function CopLogicIntimidated._chk_begin_alarm_pager(data)
         local cheat_on = MiscMods.settings.cheats.no_pagers
 
         if cheat_on then
             return
         end
 
-        og_chk_begin_alarm_pager(self, ...)
+        og_chk_begin_alarm_pager(data)
     end
 end
